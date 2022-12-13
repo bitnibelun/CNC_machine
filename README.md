@@ -1,4 +1,5 @@
-This is description of the CNC machine project. 
+## CNC Machine
+
 This personal project was an idea that I had about a machine that could visually detect objects and draw,
 carve, or paint them in various materials.
 
