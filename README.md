@@ -18,5 +18,7 @@ The machine is in the prototype stage and can be modified for various other uses
 
 ## CNC Machine
 
-https://user-images.githubusercontent.com/86565212/207436392-1a6df2d7-1b7a-48c3-8320-8335248c3f45.mp4
+https://user-images.githubusercontent.com/86565212/207436514-4396faf5-312a-45d5-a6ff-b8039a504d34.mp4
+
+
 
