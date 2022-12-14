@@ -3,7 +3,7 @@
 This personal project came about from an idea about a machine that could visually detect objects and carve, or
 cut them on various materials.
 
-The machine moves in the x, y, and z coordinates using 3 stepper motors and 1 router.
+The machine moves in the x, y, and z axes using 3 stepper motors and 1 router.
 There are 3 stepper motor drivers that are connected to 2 power supply boxes.
 The stepper motor drivers are controlled by a Raspberry Pi minicomputer using C.
 
