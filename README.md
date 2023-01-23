@@ -20,7 +20,7 @@ The machine is in the prototype stage and can be modified for various other uses
 
 * Images
 
-!![memachine](https://user-images.githubusercontent.com/86565212/214112713-f915fdc8-4a93-46cb-8032-13b9114030cc.jpeg)
+![memachine](https://user-images.githubusercontent.com/86565212/214112713-f915fdc8-4a93-46cb-8032-13b9114030cc.jpeg)
 ![Machine](https://user-images.githubusercontent.com/86565212/207437938-8c33cac5-bf0d-4317-bf95-34166db516fe.jpeg)
 ![Team Member](https://user-images.githubusercontent.com/86565212/207437941-30b25181-c872-4d79-9fbc-00dc2ad95c12.jpeg)
 
